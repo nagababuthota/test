@@ -7,4 +7,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'practice';
+  title2 = "merging dev branch into main";
 }
