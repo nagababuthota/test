@@ -8,4 +8,5 @@ import { Component } from '@angular/core';
 export class AppComponent {
   title = 'practice to update dev';
   title2 = "merging dev branch into main";
+  title3 = "3"
 }
